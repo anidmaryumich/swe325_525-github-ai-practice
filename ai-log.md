@@ -30,3 +30,14 @@ Decision: accepted
 Reason: accepted, it is accurate with a good proposed improvement based off the draft I sent.
 Related GitHub URL: https://github.com/anidmaryumich/swe325_525-github-ai-practice
 
+
+## Reflection
+1. Which GitHub action or object was most useful to you, and why? The pull request was most useful because it brought everything together in one place.
+
+2. Which AI suggestion did you accept, and what made it useful? I accepted the explanation of the history view. It was useful because I could immediately check it against GitHub Desktop's History tab and use it to confirm that my commits were on the feature branch rather than main.
+
+3. Which AI suggestion did you revise or reject, and why? I didn’t rejected the suggestion to add testing instructions and screenshots to my pull request description but I could because for our case this repository contains only documentation with no code or user interface to test.
+
+4. What did you verify yourself instead of trusting the AI? I confirmed when using it, no leaked private data was put in there.
+
+5. What would you change in your GitHub workflow next time? I would open the pull request earlier, maybe as a draft, so the pull request and commit links are available sooner.
